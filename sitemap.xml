@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/books/index.html</loc>
+    
+    <lastmod>2018-10-13T15:28:27.950Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/10/13/hello-world/</loc>
     
     <lastmod>2018-10-13T15:07:33.193Z</lastmod>
